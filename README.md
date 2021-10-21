@@ -6,4 +6,4 @@
 
 ## Screenshots
 
-![mountain.gif](screenshots/mountain.gif)
+![mountain.gif](https://raw.githubusercontent.com/hakadao/3d-parallax-mountain/main/screenshots/mountain.gif)
