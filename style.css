@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#parallax_wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  perspective: 5000px;
+}
+
+#parallax_wrapper img {
+  position: inherit;
+  top: -50px;
+  left: -50px;
+  width: 110%;
+  height: 110%;
+  object-fit: cover;
+  object-position: center;
+  transition: .1s;
+}
